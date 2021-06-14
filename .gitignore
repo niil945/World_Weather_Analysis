@@ -1,7 +1,10 @@
-# API Keys and test files
+# API Keys
 config.py
+
+# Jupyter Notebook test files
 API_practice.ipynb
 random_numbers.ipynb
+Google_Nearby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
